@@ -1,0 +1,15 @@
+
+bts333 has provided feedback on:
+    data-projects:
+
+    model-projects:
+
+
+qsd161 has provided feedback on:
+    data-projects:
+        - unity (https://github.com/NumEconCopenhagen/projects-2019-unity/issues/2)
+        - teamghita (https://github.com/NumEconCopenhagen/projects-2019-teamghita/issues/2)
+
+    model-projects:
+        - anaconda-bois (https://github.com/NumEconCopenhagen/projects-2019-anaconda-bois/issues/5)
+        - wp (https://github.com/NumEconCopenhagen/projects-2019-wp/issues/6)
