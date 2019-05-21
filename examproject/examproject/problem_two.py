@@ -48,7 +48,7 @@ def plot_random_shocks(y_vec, pi_vec):
 
 
 def plot_correlation_and_phi(phi_space, correlation):
-    ''' Figure for question 5
+    ''' Figure 1 for question 5
     '''
     fig, ax = plt.subplots(figsize = (12,8))
     ax.plot(phi_space, correlation, color = 'blue')
