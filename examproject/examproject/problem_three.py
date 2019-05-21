@@ -6,9 +6,9 @@ import numpy as np
 def plot_histogram(betas):
     fig, ax = plt.subplots(figsize = (12,8))
 
-    ax.hist(betas[:,0], alpha = 0.3, label = r'$\beta_1$')
-    ax.hist(betas[:,1], alpha = 0.3, label = r'$\beta_2$')
-    ax.hist(betas[:,2], alpha = 0.3, label = r'$\beta_3$')
+    ax.hist(betas[:,0], alpha = 0.3, label = r'$\beta_1$', bins = 100)
+    ax.hist(betas[:,1], alpha = 0.3, label = r'$\beta_2$', bins = 100)
+    ax.hist(betas[:,2], alpha = 0.3, label = r'$\beta_3$', bins = 100)
     ax.legend(fontsize = 18)
     ax.set_xlabel(r'$\beta_k$', fontsize = 18)
     ax.set_ylabel('count', fontsize = 18)
