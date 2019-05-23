@@ -25,7 +25,7 @@ def plot_single_shock(y_vec, pi_vec):
     ax.set_ylabel('$y^*_t$, $\pi^*_t$', fontsize = 18)
     ax.set_title("Evolution of $y^*$, $\pi^*$", fontsize = 20)
     ax.legend(fontsize = 18)
-    
+
     return fig
 
 
